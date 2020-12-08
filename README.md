@@ -1,2 +1,2 @@
 # Photon-Path-Simulation-in-Volumetric-Data-Sets
-Bachelor's thesis
+Bachelor's thesis of Julie Vernet
